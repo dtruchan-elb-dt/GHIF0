@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dimi
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on `Great Expectations` and data quality in general
 - 📫 Reach me via teams
 

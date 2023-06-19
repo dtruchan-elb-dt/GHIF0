@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dimi - Data Engineer @ Digital Transformation Elberfeld
 - 👄 I’m interested in voice frontends
-- 🌱 I’m currently learning PySpark
+- 🌱 I’m currently learning `PySpark`
 - 💞️ I’m looking to collaborate on `Great Expectations`
 - 📫 Reach me via teams
 

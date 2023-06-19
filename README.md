@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dimi
-- 👀 I’m interested in Data Engineering
+- 👋 Hi, I’m Dimi - Data Engineering @ Digital Tranformation Elberfeld
+- 👄 I’m interested in voice frontends
 - 🌱 I’m currently learning PySpark
-- 💞️ I’m looking to collaborate on `Great Expectations` and data quality in general
+- 💞️ I’m looking to collaborate on `Great Expectations`
 - 📫 Reach me via teams
 
 <!---
